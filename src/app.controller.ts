@@ -11,6 +11,7 @@ export class AppController {
 
   @Get()
   getHello() {
-    return this.dogSvc.hi();
+    //return this.dogSvc.hi();
+    return 'hello world!!';
   }
 }
