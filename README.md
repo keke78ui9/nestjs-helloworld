@@ -25,7 +25,7 @@ $ npm run start:prod
 ```
 
 ## Run the app with Docker
-[Install Docker client](https://www.docker.com/get-started), and make sure has docker account.
+[Install Docker client](https://www.docker.com/get-started), and make sure has docker account. Docker hub repository for this app is keke78ui9/nestjs-app
 
 ```bash
 # cd to the root folder
